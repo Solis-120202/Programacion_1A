@@ -4,5 +4,5 @@ Algoritmo Nacimiento
 	Escribir " Digite el año en el que nacio", Nac;
 	Leer Nac
 	Resul<-2021-Nac
-	Escribir " Su resultado es", Resul;
+	Escribir " Su edad es", Resul;
 FinAlgoritmo
